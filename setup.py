@@ -8,7 +8,7 @@ with open(os.path.join(here, 'VERSION')) as version_file:
 setup (
     name='isdc-geoavalanches',
     version= version,
-    description='accesibility module',
+    description='avalanches module',
     long_description=open(os.path.join(here, 'README.md')).read(),
     license='iMMAP',
     author ='iMMAP',

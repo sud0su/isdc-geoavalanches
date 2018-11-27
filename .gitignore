@@ -7,6 +7,6 @@
 .vscode
 
 node_modules/
-isdc_geoavalanches.egg-info/
+isdc_geoavalanchess.egg-info/
 dist/
 build/
