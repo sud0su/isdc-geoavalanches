@@ -6,7 +6,7 @@ with open(os.path.join(here, 'VERSION')) as version_file:
     version = version_file.read().strip()
 
 setup (
-    name='isdc-geoavalanches',
+    name='isdc-geoavalanche',
     version= version,
     description='avalanches module',
     long_description=open(os.path.join(here, 'README.md')).read(),

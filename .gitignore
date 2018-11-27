@@ -10,3 +10,4 @@ node_modules/
 isdc_geoavalanchess.egg-info/
 dist/
 build/
+package-lock.json
