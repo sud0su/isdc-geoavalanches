@@ -1,0 +1,12 @@
+*.pyc
+*.egg-info
+
+# OSX specific
+.Python
+.DS_Store
+.vscode
+
+node_modules/
+isdc_geoavalanches.egg-info/
+dist/
+build/

@@ -1,0 +1,19 @@
+.IconClass{
+  /* background-color: #43A547; */
+  height: auto !important;
+  min-width: 70px !important;
+  max-width: 74px !important;
+  padding: 10px 0px 0px !important;
+}
+
+.IconBox{
+  /* padding-top: 10px !important; */
+}
+
+.iconSize {
+  margin-left: 0px !important;
+  padding: 10px;
+  font-size: 28px !important;
+  border-radius: 50%;
+  color: #fff !important;
+}
